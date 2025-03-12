@@ -5,12 +5,7 @@ const root=createRoot(document.getElementById("root"));
 function Sample(){
   return(
     <div className="body">
-      <ul>
-        <li>
-          hello
-        </li>
-        <li>world</li>
-        <li>
+      <ul><li>
           aakash
         </li>
         <li>naagini</li>
