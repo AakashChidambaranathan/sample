@@ -10,6 +10,10 @@ function Sample(){
           hello
         </li>
         <li>world</li>
+        <li>
+          aakash
+        </li>
+        <li>naagini</li>
       </ul>
     </div>
   );
